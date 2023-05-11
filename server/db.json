@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name": "Batman" ,
+        "career": "playboy/superhero/rich boy",
+        "age": 34,
+        "power": "none",
+        "love_interest": "Cat Women"
+    },
+{
+    "id":2,
+    "name": "Super-Man",
+    "career":"Reporter/Superhero",
+    "age": 40,
+    "power": ["flight", "Super Strength", "xray Vision"],
+    "love_interest": "Louis Lane"
+},
+{
+    "id":3,
+    "name": "Hulk",
+    "career":"SMASH",
+    "age": 39,
+    "power": ["super Strength","Anger"],
+    "love_interest": "batman"
+}
+
+]

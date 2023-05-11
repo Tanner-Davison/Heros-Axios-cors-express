@@ -1,0 +1,21 @@
+* {
+    margin-top: 0px;
+    width:vw;
+   
+}
+body{
+
+width: vw;
+
+}
+.button-form{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   height:100px;
+}
+.newText{
+    display:flex;
+    align-items: center;
+    border: 10px solid black;
+}
